@@ -1,0 +1,37 @@
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+//  // ex1
+//        int[] num={50,60,40,10,38,65,87,56,90,100,66,80,88,40,98};
+//        for (int n: num) {
+//            if (n>=90&&n<=100) {
+//                System.out.println("A");
+//            } else if (n>=80&&n<90) {
+//                System.out.println("B");
+//            } else if (n>=70&&n<80) {
+//                System.out.println("C");
+//            } else if (n>=60&&n<70) {
+//                System.out.println("D");
+//            }  else  {
+//                System.out.println("F");
+//            }
+//        }
+//   //ex2
+//        String[] name={"Shaza","Mohamed","Asmaa","Anfal","Yousra","Amin","Radwa","Yasmeen"};
+//        for (String a:name) {
+//            if (a.startsWith("A")) {
+//                System.out.println(a);
+//            }
+//        }
+//   //ex3
+//        int[] numbers={50,60,40,10,38,65,87,56,90,100,66,80,88,40,98};
+//        for (int b: numbers) {
+//            if (b <= 50) {
+//                continue;
+//            }
+//            System.out.println(b);
+//        }
+
+    }
+}
